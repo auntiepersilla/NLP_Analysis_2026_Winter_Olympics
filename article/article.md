@@ -60,7 +60,7 @@ These differences in framing are not just stylistic—they have measurable conse
 When we compared each country’s narrative mix with the overall tone of its coverage, a strong relationship emerged. Countries that devoted more attention to medal outcomes tended to produce significantly more positive reporting.
 
 ![Figure 2](../figures/regression_medal_framing_on_tone.png)
-> *(Scatter plot with regression line; each point represents a country)*
+> *(Regression plot of medal framing (% of news articles) on average tone by Publisher Country)*
 
 Statistically, the relationship is striking:
 
@@ -84,9 +84,7 @@ A closer look at tone distributions makes this clear.
 
 Across all countries, the majority of articles fall into neutral or mildly positive categories. Even countries with relatively higher shares of controversy coverage do not exhibit a significant increase in negative tone.
 
-Instead, the dominant pattern holds:
-
-> **Positive narratives—particularly those tied to competition and performance—consistently outweigh negative ones.**
+Instead, the dominant pattern holds: **Positive narratives—particularly those tied to competition and performance—consistently outweigh negative ones.**
 
 ---
 
@@ -103,11 +101,9 @@ Notably, countries that emphasize medal-driven narratives—such as Turkey and M
 
 ---
 
-## 🧠 Framing the Games: A Mirror of Media Systems
+## Framing the Games: A Mirror of Media Systems
 
-Taken together, these findings point to a broader insight:
-
-> **The tone of Olympic coverage is shaped less by the events themselves and more by how those events are framed.**
+Taken together, these findings point to a broader insight: **The tone of Olympic coverage is shaped less by the events themselves and more by how those events are framed.**
 
 When media outlets focus on medals and results, they emphasize clear outcomes—victory, achievement, and national pride. These narratives naturally lend themselves to more positive sentiment.
 
@@ -121,9 +117,7 @@ Some emphasize competition and national success.
 Others highlight individual athletes and human experience.  
 Still others situate the Games within a broader political or global context.
 
-Yet across all of these perspectives, one pattern remains consistent:
-
-> **Where medals dominate the story, positivity follows.**
+Yet across all of these perspectives, one pattern remains consistent: **Where medals dominate the story, positivity follows.**
 
 In that sense, the Olympics are not just a global sporting event—they are a global storytelling exercise.
 
