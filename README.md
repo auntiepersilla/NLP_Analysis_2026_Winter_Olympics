@@ -61,7 +61,7 @@ Using a combination of **big data infrastructure and NLP**, this analysis reveal
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### Data Pipeline
 - **GDELT** global news database  
