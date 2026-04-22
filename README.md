@@ -1,3 +1,5 @@
+![URL Slug Classification](figures/hero_image.png)
+
 # Milano Cortina 2026 Winter Olympics   
 ## NLP Analysis of Global Media Coverage
 
