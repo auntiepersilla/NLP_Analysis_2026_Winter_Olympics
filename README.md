@@ -48,7 +48,7 @@ Using a combination of **big data infrastructure and NLP**, this analysis reveal
 ## Example Visualizations
 
 ### URL Slug Classification
-![URL Slug Classification](figures/classification_URL_slug_examples_NLP.png)
+![URL Slug Classification](figures/classification_URL_slug_examples_NLP_table.png)
 
 ## Framing by Country
 ![Framing](figures/publisher_NLP_url_slug_classification_stacked_barchart.png)
